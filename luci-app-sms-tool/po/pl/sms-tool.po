@@ -287,8 +287,8 @@ msgid "Select 'No' in case the router has only one LED or if the LED is multi-ta
 msgstr "Wybierz 'Nie' w przypadku, kiedy router ma tylko jedną diodę lub gdy dioda obsługuje wiele zadań."
 
 msgid "No"
-msgstr "Nie"
+msgstr "否"
 
 msgid "Yes"
-msgstr "Tak"
+msgstr "是"
 
