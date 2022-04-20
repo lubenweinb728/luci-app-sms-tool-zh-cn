@@ -8,10 +8,10 @@ msgid "SMS Messages"
 msgstr "Wiadomości SMS"
 
 msgid "Received Messages"
-msgstr "Odebrane wiadomości"
+msgstr "收到的消息"
 
 msgid "Send Messages"
-msgstr "Wysyłanie wiadomości"
+msgstr "发送消息"
 
 msgid "USSD"
 msgstr "USSD"
@@ -34,32 +34,32 @@ msgstr "Przykładowe kody"
 msgid "Sending USSD codes"
 msgstr "Wysyłanie kodów USSD"
 
-msgid "Please enter phone number"
+msgid "请输入电话号码"
 msgstr "Proszę podać numer telefonu"
 
 msgid "Please correct phone number"
-msgstr "Proszę poprawić numer telefonu"
+msgstr "请更正电话号码"
 
 msgid "Please enter a message text"
-msgstr "Proszę podać treść wiadomości"
+msgstr "请输入消息文本"
 
 msgid "Please select the message(s) to be deleted"
-msgstr "Proszę wybrać wiadomość(-ci) do usunięcia"
+msgstr "请选择要删除的消息"
 
 msgid "Reply"
 msgstr "Odpowiedź"
 
 msgid "SMS sent sucessfully"
-msgstr "SMS został wysłany"
+msgstr "短信发送成功"
 
 msgid "Please enter a USSD code"
 msgstr "Proszę podać kod do wysłania"
 
 msgid "Delete selected message(s)?"
-msgstr "Usunąć wybraną(-e) wiadomość(-ci)?"
+msgstr "删除选定的信息？"
 
 msgid "Delete all the messages?"
-msgstr "Usunąć wszystkie wiadomości?"
+msgstr "删除所有信息？"
 
 msgid "Configuration sms-tool"
 msgstr "Konfiguracja sms-tool"
@@ -89,31 +89,31 @@ msgid "Modem memory"
 msgstr "Pamięć modemu"
 
 msgid "Messages store in"
-msgstr "Miejsce przechowywania wiadomości"
+msgstr "消息存储在"
 
 msgid "Messages (Inbox / Maximum)"
-msgstr "Wiadomości (Odebrane / Maksymalnie)"
+msgstr "消息（收件箱/最大值）"
 
 msgid "Delete Selected"
-msgstr "Usuń wybraną"
+msgstr "删除所选内容"
 
 msgid "Delete message(s)"
-msgstr "Usuń wiadomość(-ci)"
+msgstr "删除信息"
 
 msgid "Delete All"
-msgstr "Usuń wszystkie"
+msgstr "全部删除"
 
 msgid "USSD Codes"
 msgstr "Kody USSD"
 
 msgid "Send to"
-msgstr "Wyślij do"
+msgstr "发送到"
 
 msgid "Message text"
 msgstr "Treść wiadomości"
 
 msgid "Send Message"
-msgstr "Wyślij SMS"
+msgstr "发送消息"
 
 msgid "Code to send"
 msgstr "Kod do wysłania"
@@ -143,13 +143,13 @@ msgid "Automatically add prefix to the phone number field."
 msgstr "Automatycznie uzupełnij pole numeru telefonu o prefiks."
 
 msgid "Prefix Number"
-msgstr "Numer prefiks"
+msgstr "前缀编号"
 
 msgid "PHONE_NUMBER"
-msgstr "48NumerTelefonu"
+msgstr "电话号码"
 
 msgid "Refresh SMS"
-msgstr "Odśwież"
+msgstr "刷新消息"
 
 msgid "Sending USSD Code in plain text"
 msgstr "Wysyłaj kod USSD jawnym tekstem"
@@ -269,16 +269,16 @@ msgid "The process will restart at the selected time interval. This will elimina
 msgstr "Proces zostanie uruchomiony ponownie po wybranym przez użytkownika czasie. Pozwoli to wyeliminować opóźnienie w sprawdzaniu skrzynki odbiorczej."
 
 msgid "4h"
-msgstr "4 godz."
+msgstr "4小时."
 
 msgid "6h"
-msgstr "6 godz."
+msgstr "6小时."
 
 msgid "8h"
-msgstr "8 godz."
+msgstr "8小时."
 
 msgid "12h"
-msgstr "12 godz."
+msgstr "12小时."
 
 msgid "The diode is dedicated only to these notifications"
 msgstr "Dioda jest dedykowana tylko tym powiadomieniom"
